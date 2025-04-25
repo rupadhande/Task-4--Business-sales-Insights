@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Power BI Dashboard
+# 📊 Business Sales Insights Power BI Dashboard
 
 Welcome to the **Sales Analysis** Power BI project!  
 This repository showcases an interactive sales dashboard that provides **in-depth insights** into business performance across various markets and customers.
